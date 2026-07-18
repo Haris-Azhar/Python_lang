@@ -1,6 +1,6 @@
 #  using multi intence classes
 # In this chapter 11 we learn about Inheritence and more OOPs
-class employee:
+'''class employee:
         name = 'ali'
         company = 'ARFA'
         def show(self):
@@ -92,7 +92,7 @@ class Dog(Pets):
         print('The dog bark like BOW! BOW! hahahahaha')
 
 c = Dog()
-c.bark()
+c.bark()'''
 
 class employee:
     pass
