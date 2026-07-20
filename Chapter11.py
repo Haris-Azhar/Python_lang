@@ -93,11 +93,11 @@ class Dog(Pets):
 
 c = Dog()
 c.bark()
-<<<<<<< HEAD
+
 
 class employee:
     pass
-=======
+
 
 class complex:
     def __init__(self,r,i):
@@ -183,4 +183,4 @@ print(v3 + v4 + v5)
 print(v3 * v4 * v5)
 
 
->>>>>>> a97a365 (Updated chapter11.py)
+
